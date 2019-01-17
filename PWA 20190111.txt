@@ -2,3 +2,7 @@ https://medium.com/front-end-weekly/build-a-realtime-pwa-with-react-99e7b0fd3270
 https://pwa.sprinkle.space/
 https://webexpo-demo.firebaseapp.com/
 https://int3ractive.com/2018/05/gioi-thieu-progressive-web-app.html
+https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12
+https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-3-offline-support-and-network-resilience-c84db889162c
+https://github.com/GoogleChromeLabs/sw-precache
+https://github.com/GoogleChromeLabs/sw-toolbox
