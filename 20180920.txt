@@ -1,0 +1,671 @@
+﻿reset link:
+	http://192.168.1.197/ozo/default.cfm?version=ozo&reset_app=true&absolute=true
+	http://192.168.1.198/ozo3/default.cfm?version=ozo3&reset_app=true&absolute=true
+	http://192.168.1.198/ozo3/default.cfm?version=ozo3&app_cd=381&fuseaction=clz_ProcessRequestInitializer&nProcessCD=2
+	8ce3c1dff74cbe686058b2f53913a3e5
+
+=IF(COUNTIF($X$51:$X$161,AD51),"Yes","No") --check tu khoa trong bang
+Visual studio Pro Keys:
+KBJFW-NXHK6-W4WJM-CRMQB-G3CDH
+HMGNV-WCYXV-X7G9W-YCX63-B98R2
+Visual studio Enterprise Keys:
+NJVYC-BMHX2-G77MM-4XJMR-6Q8QF
+
+sakura-pass@ISV29 : OMS advancesoft
+Advance Soft: admin-pass@isv29
+KDDI: DB 192.168.1.4; admin-123456
+VM-OZO3-BASE\OBCINSTANCE3
+
+if (fileExists("D:/logs/TEST_(ISV-TAN).txt"))
+{
+	fileDelete("D:/logs/TEST_(ISV-TAN).txt");
+}
+		initialData.cf_gid = request.auth.GID;
+writeDump("abc","D:/logs/(ISV-TAN)_TEST.txt");
+var f="D:/logs/_TEST_(ISV-TAN).txt";if (fileExists(f)){fileDelete(f);}writeDump(stHeader,f);
+var f="D:/logs/(ISV-TAN)_resultInfo.txt";if (fileExists(f)){fileDelete(f);}writeDump(resultInfo,f);
+
+writeDump("#stApp.FunctionName#/block.cfm","D:/logs/TEST_(ISV-TAN).txt");
+<cfscript>writeDump("#stApp.FunctionName#/block.cfm","D:/logs/TEST_(ISV-TAN).txt");</cfscript>
+<cfdump var="#qryHKamokuDataList#" label="Art" format="text" output="D:/logs/TEST_(ISV-TAN).txt">
+\\192.168.1.197\ManageOZO\入退差異管理_取込み設定.txt
+createSqlOperatFromVarHead
+
+申請番号
+申請部署
+申請日
+申請者
+品目番号
+相続案件管理シート
+相続届
+相続届(手続省略用)
+進捗
+納期
+検収受付者
+検収受付日
+検収確認日
+相続人氏名
+相続人に対する備考情報
+申請番号
+申請部署
+申請日
+申請者
+品目番号
+進捗
+納期
+検収受付者
+検収受付日
+検収確認日
+数
+納品受付
+経営管理室
+決裁番号 kessai bango
+納入希望日 nonyukibobi
+子算番号 kosanbango
+部門コード bumoncode
+勘定科目 kanzokamoku
+単契品目
+発注ロット
+品目名称
+仕様
+特殊事項
+申請者用
+カラー軍手（大）
+添付ファイル
+単価
+金額
+納入区分
+検収取消
+差し戻し
+取消
+
+<cfscript>
+		writeDump("abc","D:/log/TEST_(ISV-TAN).txt");
+	</cfscript>
+
+xmlHttp["getSitoList"](381, 0, 4, "8ce3c1dff74cbe686058b2f53913a3e5", "2018/10/01",'');
+
+http://192.168.1.198/ozo3/default.cfm?version=ozo3&app_cd=323&fuseaction=keu_bumonsetting
+
+FBM_KAISYA_APP_KANRI
+
+[OZO 20180912]
+writeDump(form,"E:/log/TEST_(ISV-TAN).txt");
+fileDelete(file.directory & "\" & file.name);
+writeDump(form,"D:/logs/TEST_(ISV-TAN).txt");
+<cfdump var="#getart#" label="Art" format="html" output="c:\ray.html">
+<cfdump var="#qryHKamokuDataList#" label="Art" format="text" output="E:\log\TEST_(ISV-TAN).txt">
+[StringLength(100, ErrorMessage = "銀行名は100文字以内で入力してください。")]
+ankenMeisaiCsvModel.HearingHaigusha = anken.hearing_haigusha_kbn != null ? MasterHelper.HoteiSozokuninKakuninKbnNm[anken.hearing_haigusha_kbn]: null;
+↓↑✔
+
+============================================
+=dir /b /s /A-D /o:gn>20180831_ListFile.txt=
+=dir /b /s /A-D /o:gn>20180831_ListFile.csv=
+=INDEX(data,RANDBETWEEN(1,ROWS(data)),1)====
+=RANDBETWEEN(11111111,99999999)
+=MID(A1,FIND("*",SUBSTITUTE(A1,"\","*",LEN(A1)-LEN(SUBSTITUTE(A1,"\",""))))+1,LEN(A1))
+============================================
+
+*********************************************TransferData******************************************************
+http://www.dotnetfunda.com/articles/show/60/transferring-data-from-sql-server-database-to-mysql-database
+https://o7planning.org/vi/10511/ket-noi-database-sql-server-su-dung-csharp
+http://giasutinhoc.vn/c/huong-dan-xay-dung-ung-dung-windows-app-voi-c/
+https://quantrimang.com/cach-tao-nguoi-dung-trong-ms-sql-server-145908
+https://stackoverflow.com/questions/6671067/retrieve-list-of-tables-from-specific-database-on-server-c-sharp
+https://o7planning.org/vi/10513/ket-noi-database-mysql-su-dung-csharp
+https://stackoverflow.com/questions/41645309/mysql-error-access-denied-for-user-rootlocalhost
+https://hoangluyen.com/hoi-lam-the-nao-de-thay-doi-mat-khau-root-mysql-trong-xampp/
+https://chartio.com/resources/tutorials/how-to-grant-all-privileges-on-a-database-in-mysql/
+http://www.dotnetfunda.com/articles/show/60/transferring-data-from-sql-server-database-to-mysql-database
+sa-sapassword
+***************************************************************************************************************
+
+C:\Users\pt-hung\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug
+C:\Users\pt-hung\Source\Repos\ConsoleApp2\ConsoleApp2\bin\Debug
+C:\Users\pt-hung\Documents\Visual Studio 2010\Projects
+Data Source=ISV-05\SQLEXPRESS;Initial Catalog=test;Persist Security Info=True;User ID=sa;Password=***********
+
+FBM_KAISYA_APP_KANRI - knt
+m_application
+ 経費管理 - keihi kanri
+購買管理 - kobai kanri
+select * from FKD_PERM_SETTING;
+FBM_PERM_DEFINE
+GetPermDefineData
+
+image+css: \\192.168.1.198\ManageOZO3\ozo\wwwroot\image\ozo3
+
+nut search <a href="javascript:onClick_SiharaiSaki();"><img border="0" src="#sBaseURI#ico_search.png" alt="検索"></a>
+
+\\192.168.1.198\ManageOZO3\ozo\include\ExpenseControl\siharai\sime\block_sime_dsp.cfm
+
+itcsShare\Include\Base\勘定\JS_Keihi_Common.cfm -> getSelectedUserData
+include\itcsShare\Control\Common\SearchUser.cfm -> SearchUserData
+itcsShare/Control/common/SearchUser.cfm
+
+rptAttendanceSummaryHeader2
+console.log($("#" + idWapperScrollFixed).offset().top);
+
+<div class="col-lg-9 col-md-8 col-sm-6 col-xs-6 col-10">391
+<div class="col-lg-3 col-md-4 col-sm-6 col-xs-6 col-8">418
+http://192.168.1.198/ozo3/default.cfm?version=ozo3&app_cd=323&fuseaction=keu_kamoku&mode=sito
+更新（アップロード）
+ddlUser
+ddlDepartment
+
+
+https://wiki.imacros.net/CLICK
+https://imacros.net/browser/cr/welcome/?utm_source=browser&utm_medium=product
+https://imacros.net/browser/cr/welcome/
+https://wiki.imacros.net/First_Steps
+https://wiki.imacros.net/Editor
+
+SET !TIMEOUT_PAGE 120
+
+ TAG TYPE=INPUT:TEXT FORM=Listing ATTR=NAME:Name CONTENT={{!COL1}} 
+ TAG TYPE=INPUT:TEXT FORM=Listing ATTR=NAME:Album CONTENT={{!COL2}} 
+ TAG TYPE=INPUT:TEXT FORM=Listing ATTR=NAME:Price CONTENT={{!COL3}} 
+ https://wiki.imacros.net/Demo-FillForm
+ https://wiki.imacros.net/Demo-FillForm
+
+ https://stackoverflow.com/questions/18063519/imacro-wont-click-the-submit-button
+ https://stackoverflow.com/questions/42099357/imacro-multiple-links-in-div
+ https://stackoverflow.com/questions/48647606/how-do-i-loop-through-a-list-of-strings-with-imacros
+
+ https://stackoverflow.com/questions/48815884/check-if-text-string-exist-on-my-webpage-using-imacros?noredirect=1&lq=1
+
+ https://wiki.imacros.net/Demo-Loop-Csv-2-Web
+
+ http://192.168.1.198/ozo3/default.cfm?version=ozo3&app_cd=381&fuseaction=clz_StartProcessView
+
+ VERSION BUILD=10021450
+URL GOTO=http://192.168.1.198/ozo3/default.cfm?version=ozo3
+TAG POS=1 TYPE=A ATTR=ID:anchor_clz381
+URL GOTO=http://192.168.1.198/ozo3/default.cfm?version=ozo3&app_cd=381&fuseaction=clz
+TAG POS=1 TYPE=A ATTR=TXT:新規文書
+SET !POPUP_ALLOWED
+https://wiki.imacros.net/!POPUP_ALLOWED
+----
+https://stackoverflow.com/questions/42026017/imacros-changing-focus-to-second-firefox-window
+
+SET !EXTRACT_TEST_POPUP NO
+TAG XPATH="id('popupbut')" EXTRACT=HTM
+SET popupUrl EVAL("'{{!EXTRACT}}'.match(/(http:.+?)['"]/)[1];")
+TAB OPEN
+TAB T=2
+URL GOTO={{popupUrl}}
+-----
+
+http://meta-guide.com/videography/100-best-imacros-videos
+
+https://stackoverflow.com/questions/486563/overflowhidden-dots-at-the-end/486571
+https://stackoverflow.com/questions/5474871/html-how-can-i-show-tooltip-only-when-ellipsis-is-activated
+
+GetListByConfigCd
+
+
+
+http://192.168.1.198/ozo3/default.cfm?version=ozo3&app_cd=381&fuseaction=clz_StartProcessView
+http://192.168.1.198/ozo3/default.cfm?version=ozo3&app_cd=323&fuseaction=keu_sinseiunyo&mode=meisyou
+http://192.168.1.198/ozo3/default.cfm?version=ozo3&app_cd=325&fuseaction=keh_siwake&mode=siwake_regist#
+
+<!--- <input type="text" name="fidCreditAccountCode_#detailIdx#" id="fidCreditAccountCode_#detailIdx#" value="#_form.getFormValue("fidCreditAccountCode_#detailIdx#")#" class="Width130" maxlength="#Request.OZO.LEN_BUMON_CD#" onfocus="onfocusCode('kamoku',this)" onblur="onblurKamokuCallAjax(this)"/> --->
+<!--- <input type="text" name="fidCreditAccountSubjectCode_#detailIdx#" id="fidCreditAccountSubjectCode_#detailIdx#" value="#_form.getFormValue("fidCreditAccountSubjectCode_#detailIdx#")#" class="Width130" maxlength="#Request.OZO.LEN_BUMON_CD#" onfocus="onfocusCode('hkamoku',this)" onblur="onblurHKamokuCallAjax(this, this.id.split(/_/).pop(), 'Credit')"/> --->
+<!--- <input type="text" name="fidDebitAccountCode_#detailIdx#" id="fidDebitAccountCode_#detailIdx#" value="#_form.getFormValue("fidDebitAccountCode_#detailIdx#")#" class="Width130" value="#_form.getFormValue("fidDebitAccountCode_#detailIdx#")#" maxlength="#Request.OZO.LEN_BUMON_CD#" onfocus="onfocusCode('kamoku',this)" onblur="onblurKamokuCallAjax(this)"/> --->
+<!--- <input type="text" name="fidDebitAccountSubjectCode_#detailIdx#" id="fidDebitAccountSubjectCode_#detailIdx#" value="#_form.getFormValue("fidDebitAccountSubjectCode_#detailIdx#")#" class="Width130" value="#_form.getFormValue("fidDebitAccountSubjectCode_#detailIdx#")#" maxlength="#Request.OZO.LEN_BUMON_CD#" onfocus="onfocusCode('hkamoku',this)" onblur="onblurHKamokuCallAjax(this, this.id.split(/_/).pop(), 'Debit')"/> --->
+Consolas, 'Courier New', monospace
+
+E_KEH_SIWAKE_013
+alert("#_lwrap.GetMessage('E_KEH_SIWAKE_013')#");
+
+http://192.168.1.197/ozo/default.cfm?version=ozo&app_cd=300&fuseaction=elm_admin
+
+SELECT      COLUMN_NAME AS 'ColumnName'
+            ,TABLE_NAME AS  'TableName'
+FROM        INFORMATION_SCHEMA.COLUMNS
+WHERE       COLUMN_NAME LIKE '%MyName%'
+ORDER BY    TableName
+            ,ColumnName;
+			
+--tim bang co column abc
+SELECT      COLUMN_NAME AS 'ColumnName'
+            ,TABLE_NAME AS  'TableName'
+FROM        INFORMATION_SCHEMA.COLUMNS
+--WHERE       COLUMN_NAME LIKE '%app_cd%'
+WHERE       COLUMN_NAME = 'app_cd'
+ORDER BY    TableName
+            ,ColumnName;
+			
+--tim bang co column abc la khoa chinh
+SELECT 
+   A.TABLE_NAME, 
+   A.CONSTRAINT_NAME, 
+   B.COLUMN_NAME,
+   CONSTRAINT_TYPE
+FROM 
+   INFORMATION_SCHEMA.TABLE_CONSTRAINTS A, 
+   INFORMATION_SCHEMA.CONSTRAINT_COLUMN_USAGE B
+WHERE 
+   A.CONSTRAINT_NAME = B.CONSTRAINT_NAME
+   and COLUMN_NAME like 'app_cd%'
+ORDER BY 
+   A.TABLE_NAME 
+   
+--tim bang voi ten
+SELECT * FROM INFORMATION_SCHEMA.TABLES 
+WHERE TABLE_NAME LIKE '%%'
+
+
+SELECT *
+FROM FBM_APPLY_MASTER AS am
+INNER JOIN work_master AS wm
+	ON am.work_cd = wm.work_cd
+	AND am.form_cd = wm.form_cd
+--SQLliet ke cac cot trong bang va datatype
+SELECT 
+    COLUMN_NAME, DATA_TYPE 
+FROM 
+    INFORMATION_SCHEMA.COLUMNS
+WHERE 
+    TABLE_NAME  = 'ELM_CUS_NYUTAIKANSETTEI_DAKOKU_MESSAGE'
+
+
+
+<cffunction name="getNyutaikanLog" output="no" access="private">
+	<CFARGUMENT name="target_date_from" 	required="yes">
+	<CFARGUMENT name="target_date_to" 		required="yes">
+	<CFARGUMENT name="parent_app_cd" 		type="numeric"  required="yes">
+	<CFARGUMENT name="s_count" 				type="numeric"  required="yes">
+	<CFARGUMENT name="e_count" 				type="numeric"  required="yes">
+	<CFARGUMENT name="gid" 					type="numeric"  required="yes">
+	<CFARGUMENT name="userid" 				type="numeric"  required="yes">
+
+	<CFQUERY name = qRegistECusSetting datasource="#Request.HAGE_DBNAME#" username="#Request.HAGE_DBUSER#" password="#Request.HAGE_DBPASS#">
+		SELECT res.*
+		FROM (
+			SELECT 	  OFBL.target_date
+					, OFBL.target_time
+					, OFBL.reader_name
+					, OFBL.event_id
+					, OFBL.event_name
+					, MU.userid
+					, MU.name
+					, ROW_NUMBER() OVER(ORDER BY OFBL.target_date DESC, OFBL.target_time DESC) AS TMP_RECORD_NUMBER 
+					, COUNT('X') OVER() AS cnt 
+			FROM OZ2_FBZ_BIOSTAR_LOG OFBL INNER JOIN m_user MU ON OFBL.uid = MU.uid 
+			WHERE 1 = 1
+			AND OFBL.parent_app_cd = /*parent_app_cd,int:comment*/'328'
+			AND (MU.userid = @userid 
+			OR @userid ='')
+			AND (MU.uid IN (SELECT uid FROM group_info WHERE gid = @gid)
+			OR @gid = '')
+			AND (OFBL.target_date >= @target_date_from
+			OR @target_date_from IS NULL)
+			AND (OFBL.target_date <= @target_date_to 
+			OR @target_date_to IS NULL)
+			)res
+		WHERE 1 = 1
+		AND (res.TMP_RECORD_NUMBER BETWEEN @s_count AND @e_count
+		OR (@s_count = 0 AND @e_count = 0))
+	</CFQUERY>
+</cffunction>
+
+
+\\192.168.1.10\itcs\2018\20181016_KTEC\資料_20181016\参考資料\アマノ形式サンプルデータ.txt
+
+AND ISNULL(ONM.nippou_date,FG.NIPPOU_DATE) BETWEEN <cfqueryparam value="#date_from#" cfsqltype="cf_sql_datetime"> AND <cfqueryparam value="#date_to#" cfsqltype="cf_sql_datetime">*/
+
+/**
+	 * @hint 入退館入力チェック
+	 * @i_parent_app_cd アプリケーションコード
+	 * @i_uid ユーザID
+	 * @i_preShimebi  入力チェック開始日 文字列 yyyy/mm/dd
+	 * @i_nextShimebi 入力チェック終了日 文字列 yyyy/mm/dd
+	 */
+	public string function validateNyutaikan(
+		required string i_parent_app_cd ,
+		required string i_uid ,
+		required string i_preShimebi ,
+		required string i_nextShimebi)
+	{
+		/** 入退館ライセンスチェック */
+		var license = getElmCusSettei(0, "FW","nyutaikan","license");
+		if (license < 2) return;
+
+		/** 入退館情報及び、入退館比較対象となった勤務実績情報どちらかが入力されている場合に入退館事由と、勤務実績との差異を取得する。 */
+		var dtos = selectNyutaikanCheckInfo(i_parent_app_cd, i_uid, i_preShimebi, i_nextShimebi);
+
+		/** SQL絞込済み:入退館の対象者のみ */
+		/** SQL絞込済み:実績または入退館に入力有り */
+		/** SQL絞込済み:実績事由(直直・出張)を除く */
+		// 直行
+		var sTyokkoKbn = getElmCusSettei(Attributes.app_cd, "const_knt","jiyu_kbn","TyokkoKbn");
+		// 直帰
+		var sTyokkiKbn = getElmCusSettei(Attributes.app_cd, "const_knt","jiyu_kbn","TyokkiKbn");
+		// 事由判定
+		var ElmRequiredReason = new elm.service.RequiredReason(i_parent_app_cd, i_uid);
+		var Errmsg = "";
+		for (var idx = 1 ; idx <= dtos.RecordCount; idx++) {
+			var nippou_date_f = DateFormat(dtos.NIPPOU_DATE[idx],"mm月dd日：");
+			var nyukansai_jiyu = dtos.NYUKANSAI_JIYUU[idx];
+			var taikansai_jiyu = dtos.TAIKANSAI_JIYUU[idx];
+			var nyukan_jikan = dtos.NYUKAN_JIKAN[idx];
+			var taikan_jikan = dtos.TAIKAN_JIKAN[idx];
+			var syukkin_jikoku1 = dtos.SYUKKIN_JIKOKU1[idx];
+			var taisyutu_jikoku1 = dtos.TAISYUTU_JIKOKU1[idx];
+			var nyukan_overminutes = dtos.NYUKAN_OVERMINUTES[idx];
+			var taikan_overminutes = dtos.TAIKAN_OVERMINUTES[idx];
+			var jiyuu_kbn_flags = dtos.JIYUU_KBN_FLAGS[idx];
+
+			if(Errmsg neq ""){
+				Errmsg &= "\n";
+			}
+			/** 入室 */
+			if (ElmRequiredReason.reqEnter(jiyuu_kbn_flags, nyukan_jikan, syukkin_jikoku1) and nyukansai_jiyu == "") {
+				Errmsg &= "　　" & nippou_date_f & "入室差異事由が未入力です。";
+			}
+			if(Errmsg neq ""){
+				Errmsg &= "\n";
+			}
+			/** 退室 */
+			if (ElmRequiredReason.reqExit(jiyuu_kbn_flags, taikan_jikan, taisyutu_jikoku1) and taikansai_jiyu == "") {
+				Errmsg &= "　　" & nippou_date_f & "退室差異事由が未入力です。";
+			}
+		}
+
+		return Errmsg;
+	}
+	
+\\192.168.1.197\ManageOZO\ozo\include\elm\adminimportsettei
+\\192.168.1.197\ManageOZO\ozo\include\elm\adminimportsettei
+
+ElmRequiredReason = new elm.service.RequiredReason(2, "3213");
+
+--adminnyutaikansettei/block_qry 56
+//入退室端末
+tParam = structNew();
+tParam.app_cd = Attributes.app_cd;
+tParam.system = "elm";
+tParam.section = "nyutaikan";
+tParam.field = "terminalType";
+tParam.value = db_TERMINAL_TYPE;
+registElmCusSetting(tParam.app_cd, tParam.system, tParam.section, tParam.field, tParam.value);
+
+INSERT [ELM_CUS_SETTING] ([app_cd], [system], [section], [field], [value], [remarks], [sort]) VALUES (300, N'elm', N'nyutaikan', N'terminalType', N'2', N'入退室に使用する端末設定(1:BioStar 2:アマノ)', 0)
+
+
+<!--- 拡張事由 申請必須チェック --->
+<cfquery name="qState" dbtype="query">
+	SELECT * FROM qryExteJiyuuInputState
+	WHERE [date] = <cfqueryparam value="#loopDate#" cfsqltype="CF_SQL_DATE">
+</cfquery>
+<cfset retCheckDataList = checkError_ExteJiyuu(pUid, loopDate, pMessage, qState, retCheckDataList, Evaluate("stWorkCode.#T_WF_FORM_TYPE.EXTE#.name"))>
+<cfscript>
+	var license = getElmCusSettei(0, "FW","nyutaikan","license");
+	
+	if (license >= 2) 
+	{
+		var dtos = selectNyutaikanCheckInfo(ParentAppCd, pUid, loopDate);
+		// 事由判定
+		var ElmRequiredReason = new elm.service.RequiredReason(ParentAppCd, pUid);
+		var Errmsg = "";
+		
+		for (var idx = 1 ; idx <= dtos.RecordCount; idx++) {
+			var nyukansai_jiyu = dtos.NYUKANSAI_JIYUU[idx];
+			var taikansai_jiyu = dtos.TAIKANSAI_JIYUU[idx];
+			var nyukan_jikan = dtos.NYUKAN_JIKAN[idx];
+			var taikan_jikan = dtos.TAIKAN_JIKAN[idx];
+			var syukkin_jikoku1 = dtos.SYUKKIN_JIKOKU1[idx];
+			var taisyutu_jikoku1 = dtos.TAISYUTU_JIKOKU1[idx];
+			var jiyuu_kbn_flags = dtos.JIYUU_KBN_FLAGS[idx];
+
+			/** 入室 */
+			if (ElmRequiredReason.reqEnter(jiyuu_kbn_flags, nyukan_jikan, syukkin_jikoku1) and nyukansai_jiyu == "") {
+				Errmsg = pUid & "," & DateFormat(dtos.NIPPOU_DATE[idx],'yyyy/mm/dd') & "," & "入室差異事由が未入力です。";
+			}
+			if (Errmsg neq "")
+			{
+				ArrayAppend(retCheckDataList, Errmsg);
+				Errmsg = "";
+			}
+			/** 退室 */
+			if (ElmRequiredReason.reqExit(jiyuu_kbn_flags, taikan_jikan, taisyutu_jikoku1) and taikansai_jiyu == "") {
+				Errmsg = pUid & "," & DateFormat(dtos.NIPPOU_DATE[idx],'yyyy/mm/dd') & "," & "退室差異事由が未入力です。";
+			}
+			if (Errmsg neq "")
+			{
+				ArrayAppend(retCheckDataList, Errmsg);
+				Errmsg = "";
+			}
+		}
+	}
+</cfscript>
+
+<!---cfset _AwVParts.table_th_label_freewrite("fidHakiaiSaki", _form.getFormValue("fidLblHakiaiSaki"), "rowspan='3'", true)--->
+<cfset _htmlGen.radio_idx("fidKeiyakuSaki",3,"","","",true)>
+http://192.168.1.198/ozo3/default.cfm?version=ozo3&app_cd=389&fuseaction=kbi_mitumori#
+
+<cfset _htmlGen.textmoney_decimal("fidMitsumoriTanka_3", 110, 10)>
+
+
+\\192.168.1.197\ManageOZO\ozo\include\itcsShare\Include\Base\WorkingManagement\CommonFunction.cfm
+select * from KDH_KOBAISHINSEI
+select * from KDH_MITSUMORI
+select * from KDH_SHIZAIUKETSUKE WHERE KobaiShinseiNo = '100000247'
+select * from KDH_SHIZAIUKETSUKE_HIKIAISAKI where ShizaiUkeShinseiNo = '110000110'
+select * from KDH_KEIYAKUKESSAI WHERE KobaiShinseiNo = '100000247'
+
+SELECT *
+FROM KDH_SHIZAIUKETSUKE_HIKIAISAKI
+WHERE ShizaiUkeShinseiNo = /*p_ShizaiUkeShinseiNo,int:comment*/100000247
+AND DelFlg = 0
+
+
+select * from KDH_KOBAISHINSEI
+select * from KDH_MITSUMORI
+select * from KDH_SHIZAIUKETSUKE WHERE KobaiShinseiNo = '100000306'
+select * from KDH_SHIZAIUKETSUKE_HIKIAISAKI where ShizaiUkeShinseiNo = '110000133'
+select * from KDH_KEIYAKUKESSAI WHERE KobaiShinseiNo = '100000272'
+
+select * from KDH_M_CODE
+select * from m_message where msgcategory = 'ITCSKEIHI'
+select * from OZ2FW_M_MESSAGE
+
+select * from KDH_HACCYU
+
+select * from KDH_M_CODE
+SELECT CONVERT(int, KMC.CdName) + 1
+  FROM KDH_M_CODE AS KMC
+ WHERE KMC.Kbn = 8
+   AND KMC.Cd = 7
+
+   Nouki
+2018-11-21
+
+_form.isInput('fidShinseiBy')>
+
+
+<cfif isEdit and _form.isInput('fidShinseiBy')>
+
+
+SELECT 
+		OZ2AW_NW_PETITION.*
+		,OZ2AW_NW_MASTER.work_title
+FROM 	OZ2AW_NW_PETITION 
+		, OZ2AW_NW_MASTER
+WHERE 	OZ2AW_NW_PETITION.p_cd = 1000002984
+AND   	OZ2AW_NW_PETITION.work_cd = OZ2AW_NW_MASTER.work_cd
+
+
+select * from OZ2AW_WF_NWBRIDGE WITH(NOLOCK)
+ where p_instance_cd=1944
+
+select * from OZ2AW_NW_PETITION where p_cd = '1000002975'
+select * from OZ2AW_NW_MASTER
+
+select * from KDH_KOBAISHINSEI
+select * from KDH_MITSUMORI
+select * from KDH_SHIZAIUKETSUKE WHERE KobaiShinseiNo = '100000306'
+select * from KDH_SHIZAIUKETSUKE_HIKIAISAKI where ShizaiUkeShinseiNo = '110000133'
+select * from KDH_KEIYAKUKESSAI WHERE KobaiShinseiNo = '100000272'
+
+select * from KDH_M_CODE
+select * from m_message where msgcategory = 'ITCSKEIHI'
+select * from OZ2FW_M_MESSAGE
+
+select * from KDH_HACCYU
+
+select * from KDH_M_CODE
+SELECT CONVERT(int, KMC.CdName) + 1
+  FROM KDH_M_CODE AS KMC
+ WHERE KMC.Kbn = 8
+   AND KMC.Cd = 7
+   
+   
+		private string function _getMcodeInfo(required string kbn, required string cd)
+		{
+			result = StructNew();
+			dtos_Mcode = dao.outsideSql("kbi\KeiyakuKessai\getKdhMcode" , {
+																				 p_Kbn : kbn
+																				,p_Cd  : cd
+																			 });
+			if (dtos_Mcode.count() > 0)
+			{
+				var item = dtos_Mcode.getDto(1).getStructValues();
+				return item.CdName;
+			}
+			return "";
+		}
+		
+		
+select * from KDH_MITSUMORI
+select * from KDH_KEIYAKUKESSAI
+select * from KDH_KOBAISHINSEI
+
+select * from OZ2AW_NW_MASTER WHERE work_title = '経費精算'
+select * from m_application
+SELECT * FROM OZ2FW_M_MESSAGE WHERE category = 'kbi'
+select * from FBM_APPLY_MASTER
+
+
+select * from KDH_M_CODE where KbnName = '申請書'
+
+SELECT app_cd,work_cd, work_title FROM OZ2AW_NW_MASTER 
+WHERE deleteflg = 'False' AND work_cd =" & Arguments.iWorkCd & " AND app_cd=" & Attributes.app_cd;
+
+
+SELECT *
+FROM KDH_M_CODE
+WHERE Kbn = /*p_Kbn,int:comment(区分)*/30
+AND Cd = /*p_cD,int:comment(コード)*/1
+AND DelFlg = 0
+
+SELECT CDNAME
+            FROM KDH_M_CODE
+
+
+select 借方科目コード, 借方補助コード, 借方科目コード, 借方補助コード from [ORACLE_SERVER]..[IJIT].仕訳パターンマスタ
+
+select* from [ORACLE_SERVER]..[IJIT].仕訳パターンマスタ
+
+select distinct 借方科目コード, 借方補助コード, パターン名称 from [ORACLE_SERVER]..[IJIT].仕訳パターンマスタ
+
+[ORACLE_SERVER]..[IJIT].[取引先マスタ]
+
+SELECT * FROM [ORACLE_SERVER]..[IJIT].仕訳パターンマスタ WHERE CONCAT(借方科目コード,借方補助コード) = '0132000'
+select * from KDH_M_CODE where KbnName = '申請書'
+
+処理区分
+NULL
+											
+with PatternDataList as (
+            SELECT [パターンコード], [借方科目コード], [借方補助コード], [貸方科目コード], [貸方補助コード], [パターン名称], ROW_NUMBER() OVER(ORDER BY パターンコード ASC) AS RowNumber FROM [ORACLE_SERVER]..[IJIT].仕訳パターンマスタ WHERE  1=1
+            ) SELECT *  FROM PatternDataList  WHERE RowNumber BETWEEN 1 AND 3
+
+
+
+select * from KDH_KEIYAKUKESSAI
+
+SELECT DISTINCT 借方科目コード,借方補助コード,パターン名称 
+FROM ORACLE_SERVER..IJIT. 
+     [仕訳パターンマスタ] 
+
+SELECT DISTINCT 貸方科目コード,貸方補助コード,パターン名称 
+FROM ORACLE_SERVER..IJIT. 
+     [仕訳パターンマスタ] 
+
+	 SELECT [パターンコード]
+                     , [借方科目コード]
+                     , [借方補助コード]
+                     , [貸方科目コード]
+                     , [貸方補助コード]
+                     , [パターン名称]
+                     , ROW_NUMBER() OVER(ORDER BY パターンコード ASC) AS RowNumber 
+                FROM ORACLE_SERVER..IJIT. 
+
+
+				パターンコード
+
+select * from FBM_KAISYA_KANRI_SETTINGS
+
+10	01300001222000	受取手形／仮受口	013	2000	0000	122	1				3
+11	01300001000000	受取手形／売掛金	013	0000	0000	100	2				3
+12	11000000130000	受取手形／受取手形	110	0000	0000	013	3				3
+
+
+initialData.temp_keijou_bumon_cd = _lwrap.GetKeijouBumonByUid(initialData.StructUserInfo.UID,"1");
+		initialData.cf_karibarai_keijo_bumon_cd = initialData.temp_keijou_bumon_cd.BUMON_CD;
+		initialData.cf_karibarai_keijo_bumon_name = initialData.temp_keijou_bumon_cd.BUMON_NAME;
+		
+		pForm.setFormValue("fidDefaultKeijoBumon", initialData.temp_keijou_bumon_cd.BUMON_CD);
+		pForm.setFormValue("fidDefaultKeijoBumonName", initialData.temp_keijou_bumon_cd.BUMON_NAME);
+		
+SELECT T1.*
+	  , T2.[製造管理区分]
+FROM /*p_ServerName,raw:comment("サーバーの名前")*/
+	[仕訳パターンマスタ] T1
+	INNER JOIN /*p_ServerName,raw:comment("サーバーの名前")*/
+	[MST_勘定科目マスタ] T2 ON T2.勘定科目コード = T1.借方科目コード
+	INNER JOIN /*p_ServerName,raw:comment("サーバーの名前")*/
+	[MST_勘定科目マスタ] T3 ON T3.勘定科目コード = T1.貸方科目コード
+WHERE 1 = 1
+/*IF p_Type == 'full'*/
+    AND T1.[パターンコード] = /*p_PatternCode,varchar(20):comment("パターンコード")*/
+/*END*/
+/*IF p_Type == 'karipattern'*/
+    AND CONCAT(T1.借方科目コード,T1.借方補助コード) = /*p_KarikataCode,nvarchar(20):comment("借方勘定科目")*/
+/*END*/
+/*IF p_Type == 'kashipattern'*/
+    AND CONCAT(T1.貸方科目コード,T1.貸方補助コード) = /*p_KashikataCode,nvarchar(20):comment("貸方勘定科目")*/
+/*END*/
+/*IF p_Cd == '1'*/
+    AND T1.[処理区分] = 3
+/*END*/
+/*IF p_Cd == '2'*/
+    AND (T1.[処理区分] = 4 OR T1.[処理区分] = 6)
+/*END*/
+/*IF p_Cd == '3'*/
+    AND T1.[処理区分] = 1
+/*END*/
+/*IF p_Cd == '4'*/
+    AND (T1.[処理区分] = 2 OR T1.[処理区分] = 6)
+/*END*/
+/*IF p_Cd == '5'*/
+    AND T1.[処理区分] = 5
+/*END*/
+
+<cfif isEdit and _form.isInput("fidKessaiNo") >
+<cfelse>
+	<!--- <span id="spn_ShinseiBango">#_form.getFormValue("fidShinseiNo")#</span> --->
+</cfif>
+
++++++++++++++++++++
+++++++mysql++++++++
+pass: root
++++++++++++++++++++
++++++++++++++++++++
++++++++++++++++++++
+https://www.npmjs.com/package/nodemon
+https://o7planning.org/vi/11959/ket-noi-co-so-du-lieu-mysql-su-dung-nodejs
+https://www.npmjs.com/package/pm2
